@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Here are some of my key projects demonstrating my skills in **Power BI, Excel, and SQL**. Click on any project link to explore the full repository. Screenshots and a brief descriptions of each project are provided below for a quick preview.
+Here are some of my key projects demonstrating my skills in **Power BI, Excel, and SQL**. Click on any project link to explore the full repository. Screenshots and brief descriptions of each project are provided below for a quick preview.
 
 ## Projects
 
